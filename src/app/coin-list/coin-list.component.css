@@ -1,0 +1,57 @@
+/* .header{
+    height: 40%;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    color: aliceblue;
+} */
+/* .sub-header{
+    height:50%;
+    display:flex;
+  
+} */
+.fil{
+    background-color: aquamarine;
+}
+table {
+    width: 100%;
+  }
+ 
+  
+  .mat-form-field {
+    font-size: 14px;
+    width: 100%;
+  }
+  
+  td, th {
+    width: 25%;
+  }
+.banner{
+    height:200px;
+    width:100%;
+    /* background-color: rgb(185, 142, 142); */
+    background-color: rgb(77, 94, 61);
+}
+.card{
+    border:0;
+    background: transparent;
+    color:white;
+    width:70%;
+    height: 130px;
+    justify-content: space-evenly;
+    align-items: center;
+    /* margin-top: 50%; */
+}
+img{
+    width: 70px;
+    margin: 0  auto;
+}
+h4{
+    font-weight: 700;
+    margin-top: 10px;
+}
+h5{
+    font-weight: 700;
+    text-align: center;
+}
